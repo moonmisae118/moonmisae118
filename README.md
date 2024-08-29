@@ -14,7 +14,7 @@
 
 ### 🐱 About Me
 
-<a href="https://moonmisae.notion.site/8687cfc8be4b40f5b203c54506a8f960"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><a/> <a href="https://camelisthebestconvention.github.io/MoonPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Penpot&logoColor=white"><a/>
+<a href="https://moonmisae-cdpt.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><a/>
   
 ### 👋 GitHub Hit
 <a href="https://github.com/CamelIsTheBestConvention"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCamelIsTheBestConvention&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
