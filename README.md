@@ -2,9 +2,7 @@
 
 ### 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" /></div>
 
