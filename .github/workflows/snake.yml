@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정(UTC)마다 실행
+    - cron: "0 0 * * *"  # 매일 자정(UTC)마다 실행
   workflow_dispatch:
 
 jobs:
@@ -16,13 +16,17 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: CamelIsTheBestConvention
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Move Snake file
+        run: mv github-contribution-grid-snake.svg dist/
+
+      - name: Commit and push the updated snake
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions@github.com'
-          git add .
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Update GitHub contribution snake"
           git push
