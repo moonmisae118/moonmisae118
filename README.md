@@ -53,6 +53,13 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake  
+<div align="center">
+  <img src="https://github.com/CamelIsTheBestConvention/CamelIsTheBestConvention/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+---
+
 ## 🔥 GitHub Contributions Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamelIsTheBestConvention&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
