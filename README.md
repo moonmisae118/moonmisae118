@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontSize=30&height=250&text=안녕하세요!%20프론트엔드%20개발자%20문성준입니다.&animation=fadeIn)
 
+## 👋 Welcome to My GitHub!  
+> 사용자 입장의 UI/UX를 개발하기 위해 정진하고 있습니다. <br>
+> 픽셀 단위의 디테일에 신경쓰며 개발하고 있습니다.
+
+---
+
 ## 🛠️ Tech Stacks  
 
 <div align="center">
@@ -8,6 +14,9 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
 
 ---
@@ -15,18 +24,19 @@
 ## 🛠️ Tools  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </div>
 
 ---
 
-## 🐱 About Me  
-
-- 🚀 개발 블로그: [Tistory](https://moonmisae-cdpt.tistory.com/)  
-- 💬 문의: [이메일](mailto:your-email@example.com)
+## 📅 TIL (Today I Learned)  
+> **📖 오늘의 학습 내용 공유!**  
+> 최근 학습한 내용을 업데이트하고 있습니다.  
+> [✍️ TIL 블로그 보러 가기](https://moonmisae-cdpt.tistory.com/)
 
 ---
 
@@ -43,8 +53,8 @@
 
 ---
 
-## 🔥 GitHub Activity Graph  
-[![CamelIsTheBestConvention's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamelIsTheBestConvention&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔥 GitHub Contributions Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamelIsTheBestConvention&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
