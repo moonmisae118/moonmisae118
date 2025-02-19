@@ -61,7 +61,7 @@
 ---
 
 ## 🔥 GitHub Contributions Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamelIsTheBestConvention&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CamelIsTheBestConvention&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
